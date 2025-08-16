@@ -96905,7 +96905,7 @@ ${j}`,
                                     (A[23] = De(
                                       "a",
                                       {
-                                        href: "https://www.sirenai.me/",
+                                        href: "https://sirenai.vercel.app/",
                                         target: "_blank",
                                       },
                                       [
